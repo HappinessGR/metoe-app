@@ -1,0 +1,11 @@
+
+body{
+    background-color: #F9F7FE;
+}
+
+.container{
+    margin: 20px auto;
+    padding: 30px;
+    background-color: white;
+max-width: 600px;
+}
